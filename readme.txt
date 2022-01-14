@@ -6,3 +6,4 @@ Git tracks changes of files.
 add
 test
 how push ?
+Creating a new branch is quick.
